@@ -1,0 +1,22 @@
+package com.ChinaMarket.Chinamarket.ResponseDTO;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.persistence.Column;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class CustomerResponseDto {
+    int id;
+
+    private String name;
+
+    private String email;
+
+    private String mobNo;
+}
