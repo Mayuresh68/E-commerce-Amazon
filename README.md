@@ -1,5 +1,4 @@
-# E-commerce-Amazon
-# E-commerce Backend Project
+# E-commerce-Amazon (Online Shopping)
 This repository contains the code for an E-commerce backend project developed using Java, Spring Boot, MySQL, and Hibernate ORM. The project follows the MVC architecture and incorporates REST APIs for seamless communication.
 
 # Features
